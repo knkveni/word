@@ -2,3 +2,4 @@
 # learning
 # learning
 # push
+# pull
